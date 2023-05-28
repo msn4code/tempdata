@@ -1,4 +1,4 @@
-code for context switching on an ATmega328P microcontroller using the First-Come, First-Served (FCFS) algorithm:
+Code for context switching on an ATmega328P microcontroller using the First-Come, First-Served (FCFS) algorithm:
 
 Include necessary header files: Include the necessary header files for the ATmega328P microcontroller, such as avr/io.h for I/O port definitions and avr/interrupt.h for interrupt handling.
 
